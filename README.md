@@ -1,1 +1,1 @@
-My personal project to create a React web app.
+Web application built using React.js that utilizes RoboHash API to style user images.
