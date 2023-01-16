@@ -1,4 +1,4 @@
-Web application built using React.js that utilizes RoboHash API to style user images.
+Responsive web application built using React.js that utilizes RoboHash API to style user images.
 
 
 
