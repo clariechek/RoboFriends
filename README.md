@@ -1,4 +1,6 @@
-Responsive web application built using React.js that utilizes RoboHash API to style user images.
+A simple React app utilizing APIs from JSONPlaceholder for user information and RoboHash for user images. 
+
+Search bar allows search and filter of usernames. Contents responsively adjust according to screen size.
 
 
 
