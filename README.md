@@ -1,4 +1,4 @@
-A simple React app utilizing APIs from JSONPlaceholder for user information and RoboHash for user images. 
+A React app utilizing APIs from JSONPlaceholder for user information and RoboHash for user images. 
 
 Search bar allows search and filter of usernames. Contents responsively adjust according to screen size.
 
